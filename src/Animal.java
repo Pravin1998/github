@@ -4,6 +4,7 @@ public class Animal {
     public Animal(){
         System.out.println("animal is born");
         System.out.println("srcond changes");
+        System.out.println("third changes");
 
     }
 }
